@@ -1,4 +1,5 @@
 # Adafruit MacroPad RP2040 - Macros to control YouTube in Internet Brower
+# Sadly, there doesn't appear to be any keyboad commands which can skip the ads.
 
 from adafruit_hid.keycode import Keycode # REQUIRED if using Keycode.* values
 
