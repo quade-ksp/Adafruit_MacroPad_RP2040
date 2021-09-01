@@ -1,4 +1,4 @@
-# MACROPAD Hotkeys example: Universal Numpad
+# Adafruit MacroPad RP2040 - Simple, quick and dirty Stand-by settings
 
 from adafruit_hid.keycode import Keycode # REQUIRED if using Keycode.* values
 
